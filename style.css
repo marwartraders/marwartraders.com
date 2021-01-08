@@ -121,12 +121,12 @@ a:hover{
     height: 150px;
     background-color: chartreuse;
     text-align: center;
-    display:block;
+    
 }
 .mob{
     text-align: right;
     margin-left: 25px;
-    text-align:fixed
+    
 }
 .nam{
     text-align: left;
